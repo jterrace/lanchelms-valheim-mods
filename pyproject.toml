@@ -1,0 +1,10 @@
+[project]
+name = "lanchelms-valheim-mods"
+version = "0.1.0"
+description = "A pack of mods for the LanChelms Deep North Valheim server."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv>=1.2.2",
+    "pyyaml>=6.0.3",
+]
