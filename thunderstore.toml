@@ -18,6 +18,10 @@ outdir = "./build"
 source = "./config"
 target = "config"
 
+[[build.copy]]
+source = "./CHANGELOG.md"
+target = "CHANGELOG.md"
+
 [publish]
 repository = "https://thunderstore.io"
 communities = [ "valheim" ]
