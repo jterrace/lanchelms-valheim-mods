@@ -1,0 +1,505 @@
+Abomination:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Asksvin:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Asksvin_hatchling:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Bat:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Bjorn:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Blob:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+BlobElite:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+BlobFrost:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+BlobLava:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+BlobTar:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Boar:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Boar_piggy:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+BogWitchKvastur:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Bonemass:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+BonemawSerpent:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Charred_Archer:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Charred_Archer_Fader:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Charred_Mage:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Charred_Melee:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Charred_Melee_Dyrnwyn:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Charred_Melee_Fader:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Charred_Twitcher:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Charred_Twitcher_Summoned:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Chicken:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Deathsquito:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Deer:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Dragon:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Draugr:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Draugr_Elite:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Draugr_Ranged:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Dverger:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+DvergerAshlands:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+DvergerMage:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+DvergerMageFire:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+DvergerMageIce:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+DvergerMageSupport:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+DvergerTest:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Eikthyr:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Fader:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+FallenValkyrie:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Fenring:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Fenring_Cultist:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Fenring_Cultist_Hildir:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Fenring_Cultist_Hildir_nochest:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+gd_king:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Ghost:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Gjall:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Goblin:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Goblin_Gem:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+GoblinArcher:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+GoblinBrute:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+GoblinBrute_Hildir:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+GoblinBruteBros:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+GoblinBruteBros_nochest:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+GoblinKing:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+GoblinShaman:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+GoblinShaman_Hildir:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+GoblinShaman_Hildir_nochest:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Greydwarf:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Greydwarf_Elite:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Greydwarf_Shaman:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Greyling:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Hare:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Hatchling:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Hen:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Hive:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Leech:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Leech_cave:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Lox:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Lox_Calf:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Mistile:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Morgen:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Morgen_NonSleeping:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Neck:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+piece_TrainingDummy:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Seeker:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+SeekerBrood:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+SeekerBrute:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+SeekerQueen:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Serpent:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Skeleton:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Skeleton_Friendly:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Skeleton_Hildir:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Skeleton_Hildir_nochest:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Skeleton_NoArcher:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Skeleton_Poison:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+staff_greenroots_tentaroot:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+StoneGolem:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Surtling:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+TentaRoot:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+TheHive:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Tick:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+TrainingDummy:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Troll:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Troll_Summoned:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Ulv:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Unbjorn:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Volture:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Wolf:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Wolf_cub:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true
+Wraith:
+  Spring: true
+  Summer: true
+  Fall: true
+  Winter: true

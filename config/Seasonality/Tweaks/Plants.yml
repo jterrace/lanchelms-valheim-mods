@@ -1,0 +1,425 @@
+Beech_Sapling:
+  Summer:
+    MaxScale: 1.5
+    MinScale: 0.8
+    GrowTimeMax: 5000
+    GrowTime: 3000
+    CanHarvest: true
+  Fall:
+    MaxScale: 1.5
+    MinScale: 0.8
+    GrowTimeMax: 5000
+    GrowTime: 3000
+    CanHarvest: true
+  Winter:
+    MaxScale: 1.5
+    MinScale: 0.8
+    GrowTimeMax: 5000
+    GrowTime: 3000
+    CanHarvest: false
+  Spring:
+    MaxScale: 1.5
+    MinScale: 0.8
+    GrowTimeMax: 5000
+    GrowTime: 3000
+    CanHarvest: true
+Birch_Sapling:
+  Summer:
+    MaxScale: 1
+    MinScale: 0.5
+    GrowTimeMax: 7000
+    GrowTime: 5000
+    CanHarvest: true
+  Fall:
+    MaxScale: 1
+    MinScale: 0.5
+    GrowTimeMax: 7000
+    GrowTime: 5000
+    CanHarvest: true
+  Winter:
+    MaxScale: 1
+    MinScale: 0.5
+    GrowTimeMax: 7000
+    GrowTime: 5000
+    CanHarvest: false
+  Spring:
+    MaxScale: 1
+    MinScale: 0.5
+    GrowTimeMax: 7000
+    GrowTime: 5000
+    CanHarvest: true
+FirTree_Sapling:
+  Summer:
+    MaxScale: 2.5
+    MinScale: 1
+    GrowTimeMax: 5000
+    GrowTime: 3000
+    CanHarvest: true
+  Fall:
+    MaxScale: 2.5
+    MinScale: 1
+    GrowTimeMax: 5000
+    GrowTime: 3000
+    CanHarvest: true
+  Winter:
+    MaxScale: 2.5
+    MinScale: 1
+    GrowTimeMax: 5000
+    GrowTime: 3000
+    CanHarvest: false
+  Spring:
+    MaxScale: 2.5
+    MinScale: 1
+    GrowTimeMax: 5000
+    GrowTime: 3000
+    CanHarvest: true
+Oak_Sapling:
+  Summer:
+    MaxScale: 0.9
+    MinScale: 0.7
+    GrowTimeMax: 8000
+    GrowTime: 6000
+    CanHarvest: true
+  Fall:
+    MaxScale: 0.9
+    MinScale: 0.7
+    GrowTimeMax: 8000
+    GrowTime: 6000
+    CanHarvest: true
+  Winter:
+    MaxScale: 0.9
+    MinScale: 0.7
+    GrowTimeMax: 8000
+    GrowTime: 6000
+    CanHarvest: false
+  Spring:
+    MaxScale: 0.9
+    MinScale: 0.7
+    GrowTimeMax: 8000
+    GrowTime: 6000
+    CanHarvest: true
+PineTree_Sapling:
+  Summer:
+    MaxScale: 2.5
+    MinScale: 1.5
+    GrowTimeMax: 5000
+    GrowTime: 3000
+    CanHarvest: true
+  Fall:
+    MaxScale: 2.5
+    MinScale: 1.5
+    GrowTimeMax: 5000
+    GrowTime: 3000
+    CanHarvest: true
+  Winter:
+    MaxScale: 2.5
+    MinScale: 1.5
+    GrowTimeMax: 5000
+    GrowTime: 3000
+    CanHarvest: false
+  Spring:
+    MaxScale: 2.5
+    MinScale: 1.5
+    GrowTimeMax: 5000
+    GrowTime: 3000
+    CanHarvest: true
+sapling_barley:
+  Summer:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Fall:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Winter:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: false
+  Spring:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+sapling_carrot:
+  Summer:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Fall:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Winter:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: false
+  Spring:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+sapling_flax:
+  Summer:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Fall:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Winter:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: false
+  Spring:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+sapling_jotunpuffs:
+  Summer:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Fall:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Winter:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: false
+  Spring:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+sapling_magecap:
+  Summer:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Fall:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Winter:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: false
+  Spring:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+sapling_onion:
+  Summer:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Fall:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Winter:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: false
+  Spring:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+sapling_seedcarrot:
+  Summer:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Fall:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Winter:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: false
+  Spring:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+sapling_seedonion:
+  Summer:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Fall:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Winter:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: false
+  Spring:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+sapling_seedturnip:
+  Summer:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Fall:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Winter:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: false
+  Spring:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+sapling_turnip:
+  Summer:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Fall:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+  Winter:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: false
+  Spring:
+    MaxScale: 1.1
+    MinScale: 0.9
+    GrowTimeMax: 5000
+    GrowTime: 4000
+    CanHarvest: true
+VineAsh_sapling:
+  Summer:
+    MaxScale: 1
+    MinScale: 1
+    GrowTimeMax: 300
+    GrowTime: 200
+    CanHarvest: true
+  Fall:
+    MaxScale: 1
+    MinScale: 1
+    GrowTimeMax: 300
+    GrowTime: 200
+    CanHarvest: true
+  Winter:
+    MaxScale: 1
+    MinScale: 1
+    GrowTimeMax: 300
+    GrowTime: 200
+    CanHarvest: false
+  Spring:
+    MaxScale: 1
+    MinScale: 1
+    GrowTimeMax: 300
+    GrowTime: 200
+    CanHarvest: true
+VineGreen_sapling:
+  Summer:
+    MaxScale: 1
+    MinScale: 1
+    GrowTimeMax: 300
+    GrowTime: 200
+    CanHarvest: true
+  Fall:
+    MaxScale: 1
+    MinScale: 1
+    GrowTimeMax: 300
+    GrowTime: 200
+    CanHarvest: true
+  Winter:
+    MaxScale: 1
+    MinScale: 1
+    GrowTimeMax: 300
+    GrowTime: 200
+    CanHarvest: false
+  Spring:
+    MaxScale: 1
+    MinScale: 1
+    GrowTimeMax: 300
+    GrowTime: 200
+    CanHarvest: true

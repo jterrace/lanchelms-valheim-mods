@@ -1,0 +1,871 @@
+BlueberryBush:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+CloudberryBush:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+goblin_totempole:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+hanging_hairstrands:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+LuredWisp:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Ashstone:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Barley:
+  Summer:
+    Amount: 2
+    CanHarvest: true
+  Fall:
+    Amount: 2
+    CanHarvest: true
+  Winter:
+    Amount: 2
+    CanHarvest: false
+  Spring:
+    Amount: 2
+    CanHarvest: true
+Pickable_Barley_Wild:
+  Summer:
+    Amount: 2
+    CanHarvest: true
+  Fall:
+    Amount: 2
+    CanHarvest: true
+  Winter:
+    Amount: 2
+    CanHarvest: false
+  Spring:
+    Amount: 2
+    CanHarvest: true
+Pickable_BlackCoreStand:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_BogIronOre:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Branch:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Carrot:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Charredskull:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Dandelion:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_DragonEgg:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_DvergerThing:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_DvergrLantern:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_DvergrMineTreasure:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_DvergrStein:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Fiddlehead:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Fishingrod:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Flax:
+  Summer:
+    Amount: 2
+    CanHarvest: true
+  Fall:
+    Amount: 2
+    CanHarvest: true
+  Winter:
+    Amount: 2
+    CanHarvest: false
+  Spring:
+    Amount: 2
+    CanHarvest: true
+Pickable_Flax_Wild:
+  Summer:
+    Amount: 2
+    CanHarvest: true
+  Fall:
+    Amount: 2
+    CanHarvest: true
+  Winter:
+    Amount: 2
+    CanHarvest: false
+  Spring:
+    Amount: 2
+    CanHarvest: true
+Pickable_Flint:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_ForestCryptRemains01:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_ForestCryptRemains02:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_ForestCryptRemains03:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_ForestCryptRemains04:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Hairstrands01:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Hairstrands02:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_HardRockOffspring:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_MeatPile:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Meteorite:
+  Summer:
+    Amount: 6
+    CanHarvest: true
+  Fall:
+    Amount: 6
+    CanHarvest: true
+  Winter:
+    Amount: 6
+    CanHarvest: false
+  Spring:
+    Amount: 6
+    CanHarvest: true
+Pickable_MoltenCoreStand:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_MountainCaveCrystal:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_MountainCaveObsidian:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_MountainRemains01_buried:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Mushroom:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Mushroom_blue:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Mushroom_JotunPuffs:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Mushroom_Magecap:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Mushroom_yellow:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Obsidian:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Onion:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Pot_Shard:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_RoyalJelly:
+  Summer:
+    Amount: 5
+    CanHarvest: true
+  Fall:
+    Amount: 5
+    CanHarvest: true
+  Winter:
+    Amount: 5
+    CanHarvest: false
+  Spring:
+    Amount: 5
+    CanHarvest: true
+Pickable_SeedCarrot:
+  Summer:
+    Amount: 3
+    CanHarvest: true
+  Fall:
+    Amount: 3
+    CanHarvest: true
+  Winter:
+    Amount: 3
+    CanHarvest: false
+  Spring:
+    Amount: 3
+    CanHarvest: true
+Pickable_SeedOnion:
+  Summer:
+    Amount: 3
+    CanHarvest: true
+  Fall:
+    Amount: 3
+    CanHarvest: true
+  Winter:
+    Amount: 3
+    CanHarvest: false
+  Spring:
+    Amount: 3
+    CanHarvest: true
+Pickable_SeedTurnip:
+  Summer:
+    Amount: 3
+    CanHarvest: true
+  Fall:
+    Amount: 3
+    CanHarvest: true
+  Winter:
+    Amount: 3
+    CanHarvest: false
+  Spring:
+    Amount: 3
+    CanHarvest: true
+Pickable_SmokePuff:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Stone:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_StoneRock:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_SulfurRock:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_SurtlingCoreStand:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Swordpiece1:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Swordpiece2:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Swordpiece3:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Tar:
+  Summer:
+    Amount: 4
+    CanHarvest: true
+  Fall:
+    Amount: 4
+    CanHarvest: true
+  Winter:
+    Amount: 4
+    CanHarvest: false
+  Spring:
+    Amount: 4
+    CanHarvest: true
+Pickable_TarBig:
+  Summer:
+    Amount: 15
+    CanHarvest: true
+  Fall:
+    Amount: 15
+    CanHarvest: true
+  Winter:
+    Amount: 15
+    CanHarvest: false
+  Spring:
+    Amount: 15
+    CanHarvest: true
+Pickable_Thistle:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Tin:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_Turnip:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Pickable_VoltureEgg:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+Placeable_Stone:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+RaspberryBush:
+  Summer:
+    Amount: 1
+    CanHarvest: true
+  Fall:
+    Amount: 1
+    CanHarvest: true
+  Winter:
+    Amount: 1
+    CanHarvest: false
+  Spring:
+    Amount: 1
+    CanHarvest: true
+VineAsh:
+  Summer:
+    Amount: 3
+    CanHarvest: true
+  Fall:
+    Amount: 3
+    CanHarvest: true
+  Winter:
+    Amount: 3
+    CanHarvest: false
+  Spring:
+    Amount: 3
+    CanHarvest: true
+VineGreen:
+  Summer:
+    Amount: 3
+    CanHarvest: true
+  Fall:
+    Amount: 3
+    CanHarvest: true
+  Winter:
+    Amount: 3
+    CanHarvest: false
+  Spring:
+    Amount: 3
+    CanHarvest: true

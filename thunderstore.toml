@@ -25,5 +25,8 @@ communities = [ "valheim" ]
 valheim = [ "modpacks", "server-side", "client-side" ]
 
 [package.dependencies]
+"Advize-StumpsRegrow" = "1.0.5"
 "Azumatt-MaxPlayerCount" = "1.2.4"
+"RustyMods-Seasonality" = "3.8.0"
+"ValheimModding-YamlDotNet" = "16.3.1"
 "denikson-BepInExPack_Valheim" = "5.4.2333"
