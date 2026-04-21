@@ -19,21 +19,27 @@ toml_path = Path("thunderstore.toml")
 
 print(f"Syncing config files from: {r2_config_dir}")
 shutil.rmtree(repo_config, ignore_errors=True)
-shutil.copytree(r2_config_dir, repo_config)
+shutil.copytree(
+    r2_config_dir,
+    repo_config,
+    ignore=shutil.ignore_patterns(
+        "*.log", "*.old", "*.bin", "LastSeasonChangeData"
+    ),
+)
 
 print(f"Reading active mod list from: {mods_yml_path}")
-with open(mods_yml_path, 'r', encoding='utf-8') as f:
+with open(mods_yml_path, "r", encoding="utf-8") as f:
     mods_data = yaml.safe_load(f)
 
 dependencies = []
 for mod in mods_data:
-    if not mod.get('enabled'):
+    if not mod.get("enabled"):
         continue
     # "Author-ModName"
-    if not (name_part := mod.get('name')):
-        continue  
+    if not (name_part := mod.get("name")):
+        continue
     # Grab the nested versionNumber dictionary
-    if not (v := mod.get('versionNumber')):
+    if not (v := mod.get("versionNumber")):
         continue
     # Reconstruct the semantic version string
     version_part = f"{v.get('major', 0)}.{v.get('minor', 0)}.{v.get('patch', 0)}"
@@ -43,7 +49,7 @@ for mod in mods_data:
 print(f"Found {len(dependencies)} active dependencies: {', '.join(dependencies)}")
 
 print("Updating thunderstore.toml dependencies...")
-with open(toml_path, 'r', encoding='utf-8') as f:
+with open(toml_path, "r", encoding="utf-8") as f:
     toml_lines = f.readlines()
 
 new_toml_lines = []
@@ -57,7 +63,7 @@ for line in toml_lines:
 for dep in sorted(dependencies):
     new_toml_lines.append(f"{dep}\n")
 
-with open(toml_path, 'w', encoding='utf-8') as f:
+with open(toml_path, "w", encoding="utf-8") as f:
     f.writelines(new_toml_lines)
 
 print(f"Success! Synced configs and updated {len(dependencies)} dependencies.")
