@@ -23,7 +23,11 @@ shutil.copytree(
     r2_config_dir,
     repo_config,
     ignore=shutil.ignore_patterns(
-        "*.log", "*.old", "*.bin", "LastSeasonChangeData"
+        "*.bin",
+        "*.log",
+        "*.old",
+        "*.txt",
+        "LastSeasonChangeData",
     ),
 )
 
