@@ -1,3 +1,8 @@
+## v0.4.0
+
+ - Add AzuAntiCheat
+ - Enable "leave one" in AzuCraftyBoxes
+
 ## v0.3.0
 
  - Add AzuCraftyBoxes
