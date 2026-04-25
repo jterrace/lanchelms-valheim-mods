@@ -28,6 +28,7 @@ shutil.copytree(
         "*.old",
         "*.txt",
         "LastSeasonChangeData",
+        "Azumatt.AzuAntiCheat_Webhook.yml",
     ),
 )
 
