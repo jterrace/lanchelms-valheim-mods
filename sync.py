@@ -27,8 +27,15 @@ shutil.copytree(
         "*.log",
         "*.old",
         "*.txt",
+        "binds.yaml",
+        "permissions.yaml",
         "LastSeasonChangeData",
+        # Contains webhook URL that should not be on client
         "Azumatt.AzuAntiCheat_Webhook.yml",
+        # Configured server side due to encryption key
+        "org.bepinex.plugins.servercharacters.cfg",
+        # Contains webhook URL that should not be on client
+        "games.nwest.valheim.discordconnector",
     ),
 )
 
