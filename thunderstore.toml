@@ -40,7 +40,6 @@ valheim = [ "modpacks", "server-side", "client-side" ]
 "Smoothbrain-ServerCharacters" = "1.4.16"
 "ValheimModding-Jotunn" = "2.29.0"
 "ValheimModding-YamlDotNet" = "16.3.1"
-"dakammermann-ProgressGuard" = "1.0.0"
 "denikson-BepInExPack_Valheim" = "5.4.2333"
 "nwesterhausen-DiscordConnector" = "3.1.2"
 "shudnal-ItemStacksItemWeights" = "1.0.7"
