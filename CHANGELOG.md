@@ -1,3 +1,10 @@
+## v0.5.0
+
+ - Added ServerCharacters
+ - Added Server_devcommands
+ - Added ProgressGuard
+ - Added DiscordConnector
+
 ## v0.4.0
 
  - Add AzuAntiCheat
