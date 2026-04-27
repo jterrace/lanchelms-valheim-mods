@@ -1,3 +1,9 @@
+## v0.6.0
+
+- Add Gizmo
+- Add PlantEasily
+- Add TargetPortal
+
 ## v0.5.0
 
  - Added ServerCharacters
