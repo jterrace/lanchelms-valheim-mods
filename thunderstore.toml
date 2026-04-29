@@ -30,6 +30,7 @@ valheim = [ "modpacks", "server-side", "client-side" ]
 
 [package.dependencies]
 "Advize-PlantEasily" = "2.1.1"
+"Advize-PlantEverything" = "1.20.0"
 "Advize-StumpsRegrow" = "1.0.5"
 "Azumatt-AzuAntiCheat" = "4.3.11"
 "Azumatt-AzuCraftyBoxes" = "1.8.14"
@@ -40,6 +41,7 @@ valheim = [ "modpacks", "server-side", "client-side" ]
 "Digitalroot-Better_Wisps" = "1.0.42"
 "JereKuusela-Server_devcommands" = "1.106.0"
 "MidnightMods-Mistward" = "0.7.3"
+"Nextek-SpeedyPaths" = "1.0.9"
 "RustyMods-Seasonality" = "3.8.0"
 "Searica-SkilledCarryWeight" = "1.4.1"
 "Smoothbrain-ServerCharacters" = "1.4.16"
