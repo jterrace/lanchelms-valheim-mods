@@ -1,3 +1,11 @@
+## v0.7.0
+
+- Add Better Wisps
+- Add Foglands
+- Add Mistward
+- Add PlantEverything
+- Add SpeedyPaths
+
 ## v0.6.0
 
 - Add Gizmo
