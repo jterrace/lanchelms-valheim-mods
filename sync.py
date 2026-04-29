@@ -57,8 +57,9 @@ for mod in mods_data:
     version_part = f"{v.get('major', 0)}.{v.get('minor', 0)}.{v.get('patch', 0)}"
     # Thunderstore wants: "Author-ModName" = "1.2.3"
     dependencies.append(f'"{name_part}" = "{version_part}"')
+dependencies = sorted(dependencies)
 
-print(f"Found {len(dependencies)} active dependencies: {', '.join(dependencies)}")
+print(f"Found {len(dependencies)} active dependencies: {'\n  '.join(dependencies)}")
 
 print("Updating thunderstore.toml dependencies...")
 with open(toml_path, "r", encoding="utf-8") as f:
@@ -72,7 +73,7 @@ for line in toml_lines:
         break
 
 # Append our dynamically generated list of active mods
-for dep in sorted(dependencies):
+for dep in dependencies:
     new_toml_lines.append(f"{dep}\n")
 
 with open(toml_path, "w", encoding="utf-8") as f:
