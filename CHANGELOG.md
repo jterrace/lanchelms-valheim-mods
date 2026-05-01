@@ -1,3 +1,9 @@
+## v0.8.0
+
+- Add ValheimInfiniteFire
+- Add AzuAnti-ArthriticCrafting
+- Add OneMapToRuleThemAll
+
 ## v0.7.0
 
 - Add Better Wisps
