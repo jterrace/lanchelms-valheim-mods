@@ -40,6 +40,7 @@ valheim = [ "modpacks", "server-side", "client-side" ]
 "Azumatt-MaxPlayerCount" = "1.2.4"
 "ComfyMods-Gizmo" = "1.15.0"
 "Digitalroot-Better_Wisps" = "1.0.42"
+"DrummerCraig-OneMapToRuleThemAll" = "1.2.2"
 "JereKuusela-Server_devcommands" = "1.106.0"
 "MidnightMods-Mistward" = "0.7.3"
 "MidnightMods-ValheimInfiniteFire" = "1.0.0"
