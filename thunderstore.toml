@@ -38,6 +38,7 @@ valheim = [ "modpacks", "server-side", "client-side" ]
 "Azumatt-AzuExtendedPlayerInventory" = "2.4.1"
 "Azumatt-Foglands" = "1.0.1"
 "Azumatt-MaxPlayerCount" = "1.2.4"
+"Azumatt-Where_You_At" = "1.0.11"
 "ComfyMods-Gizmo" = "1.15.0"
 "Digitalroot-Better_Wisps" = "1.0.42"
 "DrummerCraig-OneMapToRuleThemAll" = "1.2.2"
