@@ -52,5 +52,6 @@ valheim = [ "modpacks", "server-side", "client-side" ]
 "ValheimModding-Jotunn" = "2.29.0"
 "ValheimModding-YamlDotNet" = "16.3.1"
 "denikson-BepInExPack_Valheim" = "5.4.2333"
+"malafein-ShipwrightsTouch" = "1.0.2"
 "nwesterhausen-DiscordConnector" = "3.1.2"
 "shudnal-ItemStacksItemWeights" = "1.0.7"
