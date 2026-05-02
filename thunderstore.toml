@@ -56,3 +56,4 @@ valheim = [ "modpacks", "server-side", "client-side" ]
 "malafein-ShipwrightsTouch" = "1.0.2"
 "nwesterhausen-DiscordConnector" = "3.1.2"
 "shudnal-ItemStacksItemWeights" = "1.0.7"
+"shudnal-LongshipUpgrades" = "1.0.16"
