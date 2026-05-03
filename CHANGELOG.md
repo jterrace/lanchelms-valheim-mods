@@ -1,3 +1,11 @@
+## v0.9.0
+
+ - Add ShipWrightsTouch
+ - Add WhereYouAt
+ - Add LongshipUpgrades
+ - Allow ship deconstruction with hammer
+ - Increase stump regrow rate from 10 days to 30 days
+
 ## v0.8.0
 
 - Add ValheimInfiniteFire
