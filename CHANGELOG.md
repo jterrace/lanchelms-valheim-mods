@@ -1,3 +1,10 @@
+## v0.10.0
+
+ - Add TradersExtended
+   - with early axes pieces for sale
+ - Add AllTameableTamingOverhaul
+ - Turned off ore auto map pins
+
 ## v0.9.0
 
  - Add ShipWrightsTouch
