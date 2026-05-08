@@ -1,3 +1,9 @@
+## v0.11.0
+
+ - Add MiningCaves
+ - Add VentureLocationReset
+ - Only randomize brightness in AllTameable, not RGB
+
 ## v0.10.0
 
  - Add TradersExtended
