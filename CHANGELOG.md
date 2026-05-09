@@ -1,3 +1,10 @@
+## v1.0.0
+
+ - Add BiomeLock
+ - Add World Advancement Progression
+ - Disabled Mining Caves in the plains
+ - Changed default season to Summer
+
 ## v0.11.0
 
  - Add MiningCaves
