@@ -1,0 +1,12 @@
+[
+  {
+    "prefab": "AxeHead1",
+    "stack": 1,
+    "price": 100
+  },
+  {
+    "prefab": "AxeHead2",
+    "stack": 1,
+    "price": 100
+  }
+]
