@@ -1,3 +1,11 @@
+## v1.1.0
+
+ - Add early axes to haldor in addition to hildir
+ - Fix Alltameable config that broke breeding some default animals
+ - Turn off ores and runes in Onemap sharing
+ - Upgrade BiomeLock to 1.1.3
+ - Upgrade TradersExtended to 1.3.13
+
 ## v1.0.0
 
  - Add BiomeLock
