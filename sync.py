@@ -36,6 +36,9 @@ shutil.copytree(
         "org.bepinex.plugins.servercharacters.cfg",
         # Contains webhook URL that should not be on client
         "games.nwest.valheim.discordconnector",
+        # Configured server side with increased limits, use default on client and allow
+        # players to change config based on their Internet speeds if necessary
+        "CW_Jesse.BetterNetworking.cfg",
     ),
 )
 
