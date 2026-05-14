@@ -1,3 +1,7 @@
+## v1.2.0
+
+ - Add BetterNetworking
+
 ## v1.1.0
 
  - Add early axes to haldor in addition to hildir
