@@ -1,3 +1,7 @@
+## v1.3.0
+
+ - Add BetterSleepBruh
+
 ## v1.2.0
 
  - Add BetterNetworking
