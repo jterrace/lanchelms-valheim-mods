@@ -55,6 +55,7 @@ valheim = [ "modpacks", "server-side", "client-side" ]
 "ValheimModding-Jotunn" = "2.29.0"
 "ValheimModding-JsonDotNET" = "13.0.4"
 "ValheimModding-YamlDotNet" = "16.3.1"
+"Vapok-BetterSleepBruh" = "1.0.2"
 "VentureValheim-Mining_Caves" = "0.3.1"
 "VentureValheim-Venture_Location_Reset" = "0.10.8"
 "VentureValheim-World_Advancement_Progression" = "0.3.14"
