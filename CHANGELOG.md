@@ -1,3 +1,10 @@
+## v1.4.0
+
+ - Shorten winter
+ - Turn off mud piles in onemap
+ - Upgrade BiomeLock to 1.1.4 (with new features disabled)
+ - Add AzuWearNTearPatches to disable boat water damage due to physics lag
+
 ## v1.3.0
 
  - Add BetterSleepBruh
