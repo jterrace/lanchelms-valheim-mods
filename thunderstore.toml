@@ -36,6 +36,7 @@ valheim = [ "modpacks", "server-side", "client-side" ]
 "Azumatt-AzuAntiCheat" = "4.3.11"
 "Azumatt-AzuCraftyBoxes" = "1.8.14"
 "Azumatt-AzuExtendedPlayerInventory" = "2.4.1"
+"Azumatt-AzuWearNTearPatches" = "1.0.8"
 "Azumatt-Foglands" = "1.0.1"
 "Azumatt-MaxPlayerCount" = "1.2.4"
 "Azumatt-Where_You_At" = "1.0.11"
