@@ -1,3 +1,7 @@
+## v1.4.1
+
+ - Transition seasons only while sleeping
+
 ## v1.4.0
 
  - Shorten winter
