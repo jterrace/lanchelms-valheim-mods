@@ -1,3 +1,7 @@
+## v1.4.2
+
+ - Add TimeoutLimit mod to help with long Steam Deck connection times
+
 ## v1.4.1
 
  - Transition seasons only while sleeping
