@@ -44,6 +44,7 @@ valheim = [ "modpacks", "server-side", "client-side" ]
 "Digitalroot-Better_Wisps" = "1.0.42"
 "DrummerCraig-OneMapToRuleThemAll" = "1.2.2"
 "JereKuusela-Server_devcommands" = "1.106.0"
+"MSchmoecker-TimeoutLimit" = "0.2.0"
 "Meldurson-AllTameableTamingOverhaul" = "1.5.4"
 "MidnightMods-Mistward" = "0.7.3"
 "MidnightMods-ValheimInfiniteFire" = "1.0.0"
