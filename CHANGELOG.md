@@ -1,3 +1,7 @@
+## v1.5.0
+
+ - Update ValheimInfiniteFire from 1.0.0 to 1.1.0
+
 ## v1.4.2
 
  - Add TimeoutLimit mod to help with long Steam Deck connection times
