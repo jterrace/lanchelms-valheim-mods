@@ -1,3 +1,9 @@
+## v1.6.0
+
+IMPORTANT: You will need to manually disable or remove BetterNetworking
+
+ - Replace BetterNetworking with VBNetTweaks
+
 ## v1.5.0
 
  - Update ValheimInfiniteFire from 1.0.0 to 1.1.0
