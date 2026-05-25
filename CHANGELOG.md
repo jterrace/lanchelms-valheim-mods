@@ -1,3 +1,7 @@
+## v1.6.1
+
+ -  Stop tracking and storing unused discovery pins
+
 ## v1.6.0
 
 IMPORTANT: You will need to manually disable or remove BetterNetworking
