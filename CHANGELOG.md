@@ -1,3 +1,7 @@
+## v1.6.2
+
+ - Replace AzuWearNTearPatches with multiplayerboatdamage
+
 ## v1.6.1
 
  -  Stop tracking and storing unused discovery pins
