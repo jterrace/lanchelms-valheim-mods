@@ -68,7 +68,7 @@ and is generally oppressive. Combined, these make the Mistlands a much more enjo
 
 ## Quality of Life
 
-Broadly categorized as quality of life mods, these things make the game more fun and easier to play. [OneMapToRuleThemAll] instantly
+Broadly categorized as quality of life mods, these things make the game more fun and easier to play. [ServerSideMap] instantly
 shares everyone's map discoveries and pins with everyone else. The map table is buggy, and requires that people remember to use it.
 Being able to see what other people are discovering in real time is much more fun.
 
@@ -120,7 +120,7 @@ additional tameable creatures. This makes taming more fun, especially for biomes
 [Better_Wisps]: https://thunderstore.io/c/valheim/p/Digitalroot/Better_Wisps/
 [Mistward]: https://thunderstore.io/c/valheim/p/MidnightMods/Mistward/
 [Seasonality]: https://thunderstore.io/c/valheim/p/RustyMods/Seasonality/
-[OneMapToRuleThemAll]: https://thunderstore.io/c/valheim/p/DrummerCraig/OneMapToRuleThemAll/
+[ServerSideMap](https://thunderstore.io/c/valheim/p/Mydayyy/ServerSideMap/)
 [PlantEasily]: https://thunderstore.io/c/valheim/p/Advize/PlantEasily/
 [ValheimInfiniteFire]: https://thunderstore.io/c/valheim/p/MidnightMods/ValheimInfiniteFire/
 [SpeedyPaths]: https://thunderstore.io/c/valheim/p/Nextek/SpeedyPaths/
