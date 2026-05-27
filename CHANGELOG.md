@@ -1,3 +1,7 @@
+## v2.0.0
+
+ - Replace OneMapToRuleThemAll with ServerSideMap
+
 ## v1.6.2
 
  - Replace AzuWearNTearPatches with multiplayerboatdamage
