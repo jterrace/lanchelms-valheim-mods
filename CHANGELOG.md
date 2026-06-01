@@ -1,3 +1,7 @@
+## v2.0.1
+
+ - Fix accidentally missing skills in SkilledCarryWeight
+
 ## v2.0.0
 
  - Replace OneMapToRuleThemAll with ServerSideMap

@@ -13,7 +13,8 @@ game without modifying it too far from its intended design.
 ## Core/Server
 
 [BepInEx] is required for modding so that's a given. [Server_devcommands] is required for admins to have dev commands, but note that we
-are not using dev commands regularly: it's only added for any rare occasions we might need it. [Where_You_At] forces players to be visible
+are not using dev commands regularly: it's only added for any rare occasions we might need it. [ServerCharacters] stores your character
+file on the server and enforces that each Steam user can only have a single character. [Where_You_At] forces players to be visible
 on the map since people often forget to turn it on and we're not doing PvP here. [MaxPlayerCount] is required to increase the max player
 count above 10, and [DiscordConnector] posts information to our Discord about the server. [BetterNetworking_Valheim] improves networking
 performance with a large player count and prevents network data loss. [BetterSleepBruh] improves the sleep behavior for a multiplayer server
