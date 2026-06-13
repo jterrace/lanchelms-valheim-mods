@@ -30,6 +30,7 @@ valheim = [ "modpacks", "server-side", "client-side" ]
 
 [package.dependencies]
 "1010101110-multiplayerboatdamage" = "0.0.1"
+"ASharpPen-Custom_Raids" = "1.8.1"
 "Advize-PlantEasily" = "2.1.1"
 "Advize-PlantEverything" = "1.20.0"
 "Advize-StumpsRegrow" = "1.0.5"
