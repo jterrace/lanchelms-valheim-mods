@@ -1,3 +1,10 @@
+## v2.1.0
+
+ - Update Server_devcommands to 1.108
+ - Add Venture Multiplayer Tweaks
+ - Disable teleportation and skill loss on PVP deaths
+ - Add Custom Raids
+
 ## v2.0.1
 
  - Fix accidentally missing skills in SkilledCarryWeight
