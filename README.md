@@ -19,7 +19,8 @@ on the map since people often forget to turn it on and we're not doing PvP here.
 count above 10, and [DiscordConnector] posts information to our Discord about the server. [BetterNetworking_Valheim] improves networking
 performance with a large player count and prevents network data loss. [BetterSleepBruh] improves the sleep behavior for a multiplayer server
 where it's often impossible to coordinate everyone to sleep. [TimeoutLimit] increases the connection timeout from 30 seconds to 90 seconds,
-which helps with Steam Deck slow connection times.
+which helps with Steam Deck slow connection times. [VentureMultiplayerTweaks] is brought in so we can have PVP battles without skill loss
+or teleportation back to your bed.
 
 ## Enforcements
 
@@ -131,3 +132,4 @@ additional tameable creatures. This makes taming more fun, especially for biomes
 [Gizmo]: https://thunderstore.io/c/valheim/p/ComfyMods/Gizmo/
 [AzuWearNTearPatches]: https://thunderstore.io/c/valheim/p/Azumatt/AzuWearNTearPatches/
 [TimeoutLimit]: https://thunderstore.io/c/valheim/p/MSchmoecker/TimeoutLimit/
+[VentureMultiplayerTweaks]: https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Multiplayer_Tweaks/
