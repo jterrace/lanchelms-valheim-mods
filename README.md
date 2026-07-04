@@ -122,7 +122,7 @@ additional tameable creatures. This makes taming more fun, especially for biomes
 [Better_Wisps]: https://thunderstore.io/c/valheim/p/Digitalroot/Better_Wisps/
 [Mistward]: https://thunderstore.io/c/valheim/p/MidnightMods/Mistward/
 [Seasonality]: https://thunderstore.io/c/valheim/p/RustyMods/Seasonality/
-[ServerSideMap](https://thunderstore.io/c/valheim/p/Mydayyy/ServerSideMap/)
+[ServerSideMap]: https://thunderstore.io/c/valheim/p/Mydayyy/ServerSideMap/
 [PlantEasily]: https://thunderstore.io/c/valheim/p/Advize/PlantEasily/
 [ValheimInfiniteFire]: https://thunderstore.io/c/valheim/p/MidnightMods/ValheimInfiniteFire/
 [SpeedyPaths]: https://thunderstore.io/c/valheim/p/Nextek/SpeedyPaths/
