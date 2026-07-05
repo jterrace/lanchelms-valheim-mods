@@ -1,3 +1,8 @@
+## v2.2.0
+
+ - Add MarketStall
+ - Update Jotunn to 2.29.1
+
 ## v2.1.0
 
  - Update Server_devcommands to 1.108
