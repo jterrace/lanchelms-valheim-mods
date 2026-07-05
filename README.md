@@ -37,8 +37,9 @@ locations can end up being diminished on a large multiplayer server. To address 
 instead of winding up with a barren wasteland of a starting island. [Venture_Location_Reset] is configured to respawn many of the points
 of interest like Fuling camps, Burial Chambers, Sunken Crypts, etc. This ensures everyone has a chance to acquire materials from these
 areas. [Mining_Caves] adds a couple additional caves that will reset to acquire materials like Copper, Tin, and Silver, which normally
-have no way of resetting. Finally, we add [TradersExtended] and configure it to have some additional items like the early axes, which
-normally can't be acquired by everyone. We make these rare items purchasable with gold so everyone has a chance to use them.
+have no way of resetting. We add [TradersExtended] and configure it to have some additional items like the early axes, which normally
+can't be acquired by everyone. We make these rare items purchasable with gold so everyone has a chance to use them. Finally, we add
+[MarketStall] so players can post items for sale that other players may want or need.
 
 ## Inventory
 
@@ -133,3 +134,4 @@ additional tameable creatures. This makes taming more fun, especially for biomes
 [AzuWearNTearPatches]: https://thunderstore.io/c/valheim/p/Azumatt/AzuWearNTearPatches/
 [TimeoutLimit]: https://thunderstore.io/c/valheim/p/MSchmoecker/TimeoutLimit/
 [VentureMultiplayerTweaks]: https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Multiplayer_Tweaks/
+[MarketStall]: https://thunderstore.io/c/valheim/p/RustyMods/MarketStall/
