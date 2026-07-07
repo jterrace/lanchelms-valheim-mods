@@ -54,6 +54,7 @@ valheim = [ "modpacks", "server-side", "client-side" ]
 "RustyMods-MarketStall" = "1.1.4"
 "RustyMods-Seasonality" = "3.8.0"
 "Searica-SkilledCarryWeight" = "1.4.1"
+"Smoothbrain-CreatureLevelAndLootControl" = "4.6.4"
 "Smoothbrain-ServerCharacters" = "1.4.16"
 "Smoothbrain-TargetPortal" = "1.2.3"
 "ValheimModding-Jotunn" = "2.29.1"
