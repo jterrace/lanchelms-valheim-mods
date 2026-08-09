@@ -1,3 +1,18 @@
+## v2.3.0
+
+IMPORTANT: You will need to manually disable/uninstall TimeoutLimit or reinstall
+the modpack.
+
+ - Add some longship sails for radulfr
+ - Update TradersExtended to 2.0.0
+ - Update LongshipUpgrades to 1.0.17
+ - Update AzuExtendedPlayerInventory to 2.4.2
+ - Update AzuCraftyBoxes to 1.8.15
+ - Update Jotunn to 2.29.2
+ - Update VBNetTweaks to 0.4.0
+ - Remove TimeoutLimit (because VBNetTweaks now has the feature)
+ - Update BiomeLock to 1.1.5
+
 ## v2.2.0
 
  - Add MarketStall
