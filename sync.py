@@ -39,6 +39,8 @@ shutil.copytree(
         # Configured server side with increased limits, use default on client and allow
         # players to change config based on their Internet speeds if necessary
         "CW_Jesse.BetterNetworking.cfg",
+        # Server devcommands aliases file
+        "alias.yaml",
     ),
 )
 
